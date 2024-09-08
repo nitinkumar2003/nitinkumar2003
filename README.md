@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
-  <a href="https://leetcode.com/yourprofile" target="blank">
+  <a href="[https://leetcode.com/yourprofile](https://leetcode.com/u/Nitinjanmeda/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>  
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nitin-kumar-42026421b/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>  
 </p>
@@ -65,26 +65,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>  
 </p>
-
----
-
-<h3>Skills Proficiency:</h3>  
-<ul>  
-  <li>HTML: 95%</li>  
-  <li>CSS: 85%</li>  
-  <li>JavaScript: 90%</li>  
-  <li>Bootstrap: 85%</li>  
-  <li>Tailwind CSS: 70%</li>  
-  <li>React.js: 95%</li>  
-  <li>Next.js: 80%</li>  
-  <li>Ant Design: 80%</li>  
-  <li>Node.js: 40%</li>  
-  <li>Express.js: 45%</li>  
-  <li>MongoDB: 40%</li>  
-  <li>Git/GitHub: 95%</li>  
-</ul>
-
----
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinkumar2003&show_icons=true&locale=en&layout=compact" alt="nitinkumar2003" />
