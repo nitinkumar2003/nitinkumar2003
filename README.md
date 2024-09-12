@@ -70,16 +70,13 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=
-nitinkumar2003&show_icons=true&locale=en&layout=compact" alt="nitinkumar2003" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinkumar2003&show_icons=true&locale=en&layout=compact" alt="nitinkumar2003" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=
-nitinkumar2003m&show_icons=true&locale=en" alt="nitinkumar2003" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinkumar2003&show_icons=true&locale=en" alt="nitinkumar2003" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=
-nitinkumar2003&" alt="nitinkumar2003" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkumar2003&" alt="nitinkumar2003" />
 </p>
