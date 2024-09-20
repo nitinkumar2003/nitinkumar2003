@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nitinkumar2003/nitinkumar2003/blob/main/bannar.jpeg" alt="Banner" width="100%" />
+  <img src="https://github.com/nitinkumar2003/nitinkumar2003/blob/main/Nk_git.png" alt="Banner" width="100%" />
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>   -->
 <h3 align="center">A Passionate React.js Developer from Jewar, Noida, India.</h3>  
